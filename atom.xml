@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-02-09T06:46:42.000Z</updated>
+  <updated>2017-02-09T07:35:53.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,11 +20,77 @@
     <link href="http://yoursite.com/2017/02/09/Mou-Older/"/>
     <id>http://yoursite.com/2017/02/09/Mou-Older/</id>
     <published>2017-02-09T06:46:42.000Z</published>
-    <updated>2017-02-09T06:46:42.000Z</updated>
+    <updated>2017-02-09T07:35:53.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="人物简介"><a href="#人物简介" class="headerlink" title="人物简介"></a>人物简介</h3><p><code>崔凯华</code>是个帅气的东北妹子，下面有图为证：<br><img src="imgs/Mou_older/avatar.png" alt="Alt Image Text"></p>
+<h3 id="画个表格"><a href="#画个表格" class="headerlink" title="画个表格"></a>画个表格</h3><table>
+<thead>
+<tr>
+<th>Option name</th>
+<th>Markup</th>
+<th>Result if enabled</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Intra-word emphasis</td>
+<td>So A*maz*ing</td>
+<td>So A<em>maz</em>ing</td>
+<td></td>
+</tr>
+<tr>
+<td>Strikethrough</td>
+<td>~~Much wow~~</td>
+<td><del>Much wow</del></td>
+<td></td>
+</tr>
+<tr>
+<td>Underline [^under]</td>
+<td>_So doge_</td>
+<td><u>So doge</u></td>
+<td></td>
+</tr>
+<tr>
+<td>Quote [^quote]</td>
+<td>\”Such editor\”</td>
+<td><q>Such editor</q></td>
+<td></td>
+</tr>
+<tr>
+<td>Highlight</td>
+<td>\==So good\==</td>
+<td><mark>So good</mark></td>
+<td></td>
+</tr>
+<tr>
+<td>Superscript</td>
+<td>hoge\^(fuga)</td>
+<td>hoge<sup>fuga</sup></td>
+<td></td>
+</tr>
+<tr>
+<td>Autolink</td>
+<td><a href="http://t.co" target="_blank" rel="external">http://t.co</a></td>
+<td><a href="http://t.co" target="_blank" rel="external">http://t.co</a></td>
+<td></td>
+</tr>
+<tr>
+<td>Footnotes</td>
+<td>[\^4] and [\^4]:</td>
+<td>[^4] and footnote 4</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+]]></content>
     
     <summary type="html">
     
+      &lt;h3 id=&quot;人物简介&quot;&gt;&lt;a href=&quot;#人物简介&quot; class=&quot;headerlink&quot; title=&quot;人物简介&quot;&gt;&lt;/a&gt;人物简介&lt;/h3&gt;&lt;p&gt;&lt;code&gt;崔凯华&lt;/code&gt;是个帅气的东北妹子，下面有图为证：&lt;br&gt;&lt;img src=&quot;imgs/Mou_older/
+    
     </summary>
+    
+      <category term="旅游" scheme="http://yoursite.com/categories/%E6%97%85%E6%B8%B8/"/>
     
     
   </entry>
